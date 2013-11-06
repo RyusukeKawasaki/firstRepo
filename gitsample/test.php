@@ -1,5 +1,4 @@
 <?php
 	echo "test";
 	
-	echo "tmp";
-	
+	echo "test";	echo "test";	echo "test";
